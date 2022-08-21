@@ -4,6 +4,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-53270e?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-53270e?style=for-the-badge&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-53270e?style=for-the-badge&logo=Sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-53270e?style=for-the-badge&logo=Bootstrap)
 ![Git](https://img.shields.io/badge/-Git-53270e?style=for-the-badge&logo=Git)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-53270e?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-53270e?style=for-the-badge&logo=react)
