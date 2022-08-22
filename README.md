@@ -1,5 +1,4 @@
-![Header](https://github.com/OleksandrKrekoten/OleksandrKrekoten/blob/main/assets/depositphotos_2793246-stock-illustration-italian-landmarks-illustration-including-removebg-preview.png)
-___
+![Header](https://github.com/OleksandrKrekoten/OleksandrKrekoten/blob/main/assets/clark-tibbs-oqStl2L5oxI-unsplash%20(1).jpg)
 
 
 ![HTML](https://img.shields.io/badge/-HTML-53270e?style=for-the-badge&logo=HTML5)
