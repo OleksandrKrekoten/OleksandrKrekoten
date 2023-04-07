@@ -7,15 +7,14 @@
 
 <h3>My coding stack: </h3>
 
-![HTML](https://img.shields.io/badge/-HTML-283a4f?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-283a4f?style=for-the-badge&logo=CSS3)
-![Sass](https://img.shields.io/badge/-Sass-283a4f?style=for-the-badge&logo=Sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-283a4f?style=for-the-badge&logo=Bootstrap)
-![Git](https://img.shields.io/badge/-Git-283a4f?style=for-the-badge&logo=Git)
-![JavaScript](https://img.shields.io/badge/-JavaScript-283a4f?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-283a4f?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-283a4f?style=for-the-badge&logo=Node.js)
-
+<p>![HTML](https://img.shields.io/badge/-HTML-283a4f?style=for-the-badge&logo=HTML5)</p>
+<p>![CSS](https://img.shields.io/badge/-CSS-283a4f?style=for-the-badge&logo=CSS3)</p>
+<p>![Sass](https://img.shields.io/badge/-Sass-283a4f?style=for-the-badge&logo=Sass)</p>
+<p>![Bootstrap](https://img.shields.io/badge/-Bootstrap-283a4f?style=for-the-badge&logo=Bootstrap)</p>
+<p>![Git](https://img.shields.io/badge/-Git-283a4f?style=for-the-badge&logo=Git)</p>
+<p>![JavaScript](https://img.shields.io/badge/-JavaScript-283a4f?style=for-the-badge&logo=javascript)</p>
+<p>![React](https://img.shields.io/badge/-React-283a4f?style=for-the-badge&logo=react)</p>
+<p>![Node.js](https://img.shields.io/badge/-Node.js-283a4f?style=for-the-badge&logo=Node.js)</p>
 
 <h3>Stats : </h3>
 
