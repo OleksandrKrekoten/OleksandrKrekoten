@@ -3,11 +3,10 @@
 <h1 align="center">Hi 👋, I'm Oleksandr</h1>
 <h3 align="center">I'm a junior developer from Ukraine 🇺🇦</h3>
 
-<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/538261646/e278f12f-d467-4e62-9ade-ba463b9acf52" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OleksandrKrekoten&label=Profile%20views&color=0e75b6&style=flat" alt="OleksandrKrekoten" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+<!-- - 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [currently working...]
 
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **lazycode5202@gmail.com**
 
-- ⚡ Fun fact **No one**
+- ⚡ Fun fact **No one** -->
 
 
 
@@ -89,9 +88,3 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
-
-![GitHub repo size](https://img.shields.io/github/repo-size/DaveW3202/DaveW3202?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/DaveW3202/DaveW3202?color=red&style=plastic)
-
-<br/>
-
