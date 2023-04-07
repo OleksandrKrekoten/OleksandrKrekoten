@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Oleksandr</h1>
 <h3 align="center">I'm a junior developer from Ukraine</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" />
 
 <h3>My coding stack: </h3>
 
