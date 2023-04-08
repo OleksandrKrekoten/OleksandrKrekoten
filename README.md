@@ -8,6 +8,9 @@
 <h3>My coding stack: </h3>
 
 
+![HTML](https://img.shields.io/badge/-HTML-283a4f?style=for-the-badge&logo=HTML5)
+<!--  -->
+<!--  -->
 ![CSS](https://img.shields.io/badge/-CSS-283a4f?style=for-the-badge&logo=CSS3)<br>
 <!--  -->
 <!--  -->
