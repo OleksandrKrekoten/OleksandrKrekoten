@@ -42,6 +42,7 @@
       <tr>
        <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=OleksandrKrekoten&show_icons=true&theme=radical"> </td>
        <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrKrekoten&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
+         <td><img alt="Codewars Profile Badges" src="https://www.codewars.com/users/OleksandrKrekoten/badges/large"> </td>
    </table>
 </p>
 
